@@ -19,6 +19,7 @@ session_destroy();
 <body>
 
 	<h1>Analogy Exam Registration</h1>
+	<h2>One Page Quiz Web Application </h2>
 	<h3>Kindly register your basic information before starting the exam.</h3>
 
 	<form method="POST" action="register.php">
